@@ -9,6 +9,19 @@ inputNombre.addEventListener('input', (e)=> {
     console.log(e.target.value)
 })
 
+
+const inputPasswd = document.querySelector('.password');
+
+inputPasswd.addEventListener('input', functionPasswd);
+
+function functionPasswd(){
+    inputPasswd.type = 'text'
+
+    setTimeout(()=>{
+        inputPasswd.type = 'password'
+    }, 200)
+}
+
 /*
 // evento keydown: captura cuando se presiona una tecla
 inputNombre.addEventListener('keydown', ()=>{
