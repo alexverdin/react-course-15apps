@@ -1,16 +1,16 @@
 # Veterinary Patients control App
 
-## Simple form with a list of patients in cards,
+## A simple list of patients data, managed with cards and forms.
 
-## which allows reading data from local storage, adding, deleting and editing each record.
+### Features:
 
-## from Juan Pablo de la Torre Udemy's React course
+- Persistent data in local storage.
+- Records can be added, edited and deleted.
+- Created with Vite, Tailwind CSS and NPM.
 
-### General data:
+### Install and Usage:
 
-- Created with Vite,CSS and NPM
-
-### To use:
-
-`npm install`
-`npm run dev`
+```
+npm install
+npm run dev
+```
