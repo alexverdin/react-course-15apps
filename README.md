@@ -3,5 +3,5 @@
 ### Sections:
 - Javascript Basis
 - Project 1: Veterinary Patient Administrator with Vite, Tailwind CSS & Local Storage
-- Project 2: Budget Control with React, Vite & Local Storage
+- Project 2: ...
 - ...
